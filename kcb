@@ -1,0 +1,53 @@
+<html>
+<head> 
+<body>
+
+<table border="1" cellspacing="0">
+<tr>
+  <th>时间</th>
+  <th>星期一</th>
+  <th>星期二</th>
+  <th>星期三</th>
+  <th>星期四</th>
+  <th>星期五</th>
+</tr>
+<tr>
+  <td>上午一大节      </td>
+  <td>web c411       </td>
+  <td>大英 c221       </td>
+  <td>管理信息 c105</td>
+  <td>数据库 b405   </td>
+  <td>大英 a219       </td>
+</tr>
+<tr>
+  <td>上午二大节    </td>
+  <td>毛概 a120      </td>
+  <td>管科c411       </td>
+  <td>毛概a120       </td>
+  <td>管科c411       </td>
+  <td>运营管理b405</td>
+</tr>
+<tr>
+  <td>下午一大节        </td>
+  <td>管信c105          </td>
+  <td>形势与政策c123</td>
+  <td>会计b101          </td>
+  <td>体育 体育馆       </td>
+  <td>毛概 a120         </td>
+</tr>
+<tr>
+  <td>下午二大节      </td>
+  <td>电子商务 b303</td>
+  <td>数据库c109     </td>
+  <td>                       </td>
+  <td>会计b101        </td>
+  <td>                       </td>
+</tr>
+
+
+
+
+
+
+</body>
+</html>
